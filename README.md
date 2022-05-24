@@ -1,2 +1,3 @@
-# OOP345_sem2
-my namem is Pratham Garg
+# Projects
+
+These are the projects I have worked so far during the semesters
